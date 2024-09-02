@@ -1,0 +1,8 @@
+com/example/demo/controllers/HelloController.class
+com/example/demo/Demo1Application.class
+com/example/demo/model/Error.class
+com/example/demo/api/ApiUtil.class
+com/example/demo/model/User.class
+com/example/demo/controllers/UsersApiController.class
+com/example/demo/services/UsersService.class
+com/example/demo/api/UsersApi.class
